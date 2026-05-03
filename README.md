@@ -173,7 +173,7 @@ My work spans **Generative AI, Computer Vision, NLP, and distributed backend pip
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [Add your link]
+* 💼 LinkedIn: [Arnav Bhatia](https://www.linkedin.com/in/arnav-bhatia-77500425a/)
 * 🤗 Hugging Face: [https://huggingface.co/spaces/Arnavbhatia/Food_Vision](https://huggingface.co/spaces/Arnavbhatia/Food_Vision)
 * 📧 Email: [arnavbhatiamait@gmail.com](mailto:arnavbhatiamait@gmail.com)
 
